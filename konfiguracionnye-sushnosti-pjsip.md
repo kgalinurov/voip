@@ -23,8 +23,8 @@ type=endpoint
 
  Всего в PJSIP 9 сущностей
 
-1. Endpoints
-2. Transport
+1. [Endpoints](pjsip-endoints.md)
+2. [Transport](pjsip-transport.md)
 3. Idenfity
 4. Auth
 5. AOR
@@ -41,7 +41,7 @@ type=endpoint
 
 Кроме того некоторые объекты могут иметь отношения один ко многим или много ко многим. Так например:
 
-#### Endpoint
+#### [Endpoint](pjsip-endoints.md)
 
 *  Множество ENDPOINTs могут иметь  множество AORs
 *  Ноль или больше ENDPOINTs имеют ноль или одну AUTHs

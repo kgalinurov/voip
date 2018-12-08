@@ -7,4 +7,6 @@
 * [Конфигурационные сущности PJSIP](konfiguracionnye-sushnosti-pjsip.md)
 * [Pjsip transport](pjsip-transport.md)
 * [PJSIP ENDOINTS](pjsip-endoints.md)
+* [IDENTIFY](identify.md)
+* [PJSIP AORS](pjsip-aors.md)
 
