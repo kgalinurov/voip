@@ -25,9 +25,9 @@ type=endpoint
 
 1. [Endpoints](pjsip-endoints.md)
 2. [Transport](pjsip-transport.md)
-3. Idenfity
+3. [Idenfity](identify.md)
 4. Auth
-5. AOR
+5. [AOR](pjsip-aors.md)
 6. Contact
 7. Registration
 8. Domain\_alias
