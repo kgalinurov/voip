@@ -10,12 +10,15 @@
 * [IDENTIFY](identify.md)
 * [PJSIP AORS](pjsip-aors.md)
 * [PJSIP Contact](pjsip-contact.md)
+* [PJSIP AUTH](pjsip-auth.md)
+* [PJSIP registration](pjsip-registration.md)
 
 ## Протокол SIP
 
 * [Основные компоненты SIP сети](protokol-sip/osnovnye-komponenty-sip-seti.md)
-* [Основные понятия протокола SIP](protokol-sip/osnovnye-ponyatiya-protokola-sip.md)
-* [Untitled](protokol-sip/untitled.md)
+* [Основные понятия протокола SIP](protokol-sip/osnovnye-ponyatiya-protokola-sip/README.md)
+  * [Untitled](protokol-sip/osnovnye-ponyatiya-protokola-sip/untitled-1.md)
+* [Запрос Register](protokol-sip/untitled.md)
 
 ## PJSIP Asterisk
 
